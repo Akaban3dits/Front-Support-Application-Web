@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 9px;
+    width: 100%;
+    margin-top: 30px;
+    align-items: center;
+  }
+  .text {
+    color: #35495e;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .underline {
+    width: 12%;
+    height: 6px;
+    background: #35495e;
+    border-radius: 9px;
+  }
+  
